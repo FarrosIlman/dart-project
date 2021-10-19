@@ -1,6 +1,6 @@
 void main() {
-  int number1 = 10;
-  int number2 = 20;
+  int number1 = 15;
+  int number2 = 25;
   
   int count = number1 + number2;
   print("Result : ${count}");
